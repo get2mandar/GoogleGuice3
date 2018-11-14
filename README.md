@@ -39,4 +39,4 @@ mvn clean install
 Run the Java Class ```com.example.guice.HelloGuice3``` to execute this Application.
 
 
-[Google Guice 3]: <https://panditmandar.blog/2014/07/24/google-guice-3/>
+[Google Guice 3]: <https://panditmandar.blog/2018/09/15/google-guice-3/>
