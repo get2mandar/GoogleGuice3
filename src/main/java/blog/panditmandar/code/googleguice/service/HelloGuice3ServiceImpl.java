@@ -1,4 +1,4 @@
-package com.example.guice.service;
+package blog.panditmandar.code.googleguice.service;
 
 /**
  * @author MandarPandit

@@ -1,8 +1,9 @@
-package com.example.guice.module;
+package blog.panditmandar.code.googleguice.module;
 
-import com.example.guice.service.HelloGuice3Service;
-import com.example.guice.service.HelloGuice3ServiceImpl;
 import com.google.inject.AbstractModule;
+
+import blog.panditmandar.code.googleguice.service.HelloGuice3Service;
+import blog.panditmandar.code.googleguice.service.HelloGuice3ServiceImpl;
 
 /**
  * @author MandarPandit

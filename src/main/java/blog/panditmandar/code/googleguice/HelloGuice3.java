@@ -1,11 +1,12 @@
-package com.example.guice.main;
+package blog.panditmandar.code.googleguice;
 
-import com.example.guice.module.HelloGuice3Module;
-import com.example.guice.service.HelloGuice3Service;
 import com.google.inject.Guice;
 import com.google.inject.Inject;
 import com.google.inject.Injector;
 import com.google.inject.Module;
+
+import blog.panditmandar.code.googleguice.module.HelloGuice3Module;
+import blog.panditmandar.code.googleguice.service.HelloGuice3Service;
 
 /**
  * @author MandarPandit
